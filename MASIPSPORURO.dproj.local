@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/30 12:37:45.000.619,=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 16:31:07.000.141,=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 16:32:41.000.149,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\LOGIN.pas=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 16:32:41.000.149,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\LOGIN.dfm=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/04/06 16:33:09.000.771,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\MASIPSP.dproj=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/04/06 16:49:40.000.157,=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 16:50:05.000.439,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\DM.dfm=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit1.dfm</Transaction>
+    <Transaction>2020/04/06 16:50:05.000.439,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\DM.pas=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit1.pas</Transaction>
+    <Transaction>2020/04/06 17:01:29.000.565,=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit2.pas</Transaction>
+    <Transaction>2020/04/06 17:01:39.000.919,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\PRINCIPAL.pas=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit2.pas</Transaction>
+    <Transaction>2020/04/06 17:01:39.000.919,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\PRINCIPAL.dfm=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit2.dfm</Transaction>
+    <Transaction>2020/06/06 11:28:42.000.375,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\MASIPSP.dproj=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\MASIPSPORURO.dproj</Transaction>
+    <Transaction>2020/06/07 18:30:54.000.705,=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit3.pas</Transaction>
+    <Transaction>2020/06/07 18:31:03.000.259,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\REPORTES.pas=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit3.pas</Transaction>
+    <Transaction>2020/06/07 18:31:03.000.259,C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\REPORTES.dfm=C:\Users\FLORENS\Documents\Embarcadero\Studio\Projects\A_MAS_ORURO\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

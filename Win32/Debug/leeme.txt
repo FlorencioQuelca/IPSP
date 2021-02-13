@@ -1,0 +1,4 @@
+pasos antes de correr el programa
+1. copiar el archivo libmysql.dll dentro de la carpeta C:\Windows\System32
+2 correr el programa.
+si sale un error llame al operador por whatsapp 75402473

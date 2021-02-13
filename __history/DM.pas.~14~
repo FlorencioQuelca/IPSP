@@ -1,0 +1,59 @@
+unit DM;
+
+interface
+
+uses
+  System.SysUtils, System.Classes, FireDAC.Stan.Intf, FireDAC.Stan.Option,
+  FireDAC.Stan.Error, FireDAC.UI.Intf, FireDAC.Phys.Intf, FireDAC.Stan.Def,
+  FireDAC.Stan.Pool, FireDAC.Stan.Async, FireDAC.Phys, FireDAC.Phys.FB,
+  FireDAC.Phys.FBDef, FireDAC.VCLUI.Wait, FireDAC.Stan.Param, FireDAC.DatS,
+  FireDAC.DApt.Intf, FireDAC.DApt, Data.DB, FireDAC.Comp.DataSet,
+  FireDAC.Comp.Client, Vcl.Dialogs, FireDAC.Phys.MySQLDef, FireDAC.Comp.UI,
+  FireDAC.Phys.MySQL, FireDAC.Phys.IBBase;
+
+type
+  TDM1 = class(TDataModule)
+    OpenDialog1: TOpenDialog;
+    FDConnection1: TFDConnection;
+    FDTransaction1: TFDTransaction;
+    FDQ_OPERADOR: TFDQuery;
+    DS_OPERADOR: TDataSource;
+    FDQ_MILITANTE: TFDQuery;
+    DS_MILITANTE: TDataSource;
+    FDQ_CIUDAD_INE: TFDQuery;
+    DS_CIUDAD_INE: TDataSource;
+    FDQ_CIUDAD_NAC: TFDQuery;
+    DS_CIUDAD_NAC: TDataSource;
+    FDQ_PROVINCIA_NAC: TFDQuery;
+    DS_PROVINCIA_NAC: TDataSource;
+    FDQ_MUNICIPIO_NAC: TFDQuery;
+    DS_MUNICIPIO_NAC: TDataSource;
+    FDQ_AUX: TFDQuery;
+    DS_AUX: TDataSource;
+    FDPhysFBDriverLink1: TFDPhysFBDriverLink;
+    FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink;
+    FDGUIxWaitCursor1: TFDGUIxWaitCursor;
+    FDQ_GENERO: TFDQuery;
+    DS_GENERO: TDataSource;
+    FDQ_ESTADOCIVIL: TFDQuery;
+    DS_ESTADOCIVIL: TDataSource;
+    FDQ_PROFESION: TFDQuery;
+    DS_PROFESION: TDataSource;
+    FDQ_ESTADO: TFDQuery;
+    DS_ESTADO: TDataSource;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  DM1: TDM1;
+
+implementation
+
+{%CLASSGROUP 'Vcl.Controls.TControl'}
+
+{$R *.dfm}
+
+end.
